@@ -4,13 +4,13 @@ This is a game I created for Campfire x Overdrive
 The NOTDI is meant to represent a wordplay
 
 # NOTDI
-## N - NOT
-## O - OVER
-## T - TILL
+## N - Not
+## O - Over
+## T - Till
 ## D - Death
 ## I - Imparts
 
-While the character may have made it passed the flag and onto the end of the map, is their journey really over? or has it been temporarily paused?
+While the character may have made it past the flag and onto the end of the map, is their journey really over? or has it been temporarily paused?
 
 Find out more...
 <br>
