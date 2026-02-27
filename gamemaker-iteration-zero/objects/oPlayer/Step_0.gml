@@ -37,3 +37,8 @@ if keyboard_check(vk_right) {
     image_xscale = 1; // reset her sprite so she faces left
 }
 
+// If she makes it to the flag
+if place_meeting(x,y,oFlag) {
+	room_goto_next();
+}
+
